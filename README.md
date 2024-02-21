@@ -1,2 +1,2 @@
 ### my first web
-[This link](https://www.susun.cool)
+[SECHOME-网络安全](https://www.susun.cool)
